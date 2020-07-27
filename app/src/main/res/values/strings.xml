@@ -1,0 +1,23 @@
+<resources>
+
+    <!--App-->
+    <string name="app_name">UrFixers</string>
+    <string name="app_title">YourFixers</string>
+
+    <!--Login-->
+    <string name="txt_phone_number_login">Đăng nhập bằng số điện thoại</string>
+    <string name="txt_google_login">Đăng nhập bằng Google</string>
+    <string name="txt_facebook_login">Đăng nhập bằng Facebook</string>
+    <string name="txt_register_question">Chưa có tài khoản?</string>
+    <string name="txt_register">Đăng ký ngay</string>
+
+    <!--Phone Number Login-->
+    <string name="txt_sdt">Số điện thoại</string>
+    <string name="hint_sdt">Nhập số điện thoại</string>
+    <string name="txt_password">Mật khẩu</string>
+    <string name="hint_password">Nhập mật khẩu</string>
+    <string name="txt_login">Đăng nhập</string>
+    <string name="txt_forgot_pass">Quên mật khẩu?</string>
+    <string name="txt_hello">Chào buổi sáng.</string>
+
+</resources>
